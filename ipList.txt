@@ -1,0 +1,5 @@
+# Add target MikroTik device management IPs here — one per line
+# Example:
+# 10.0.1.1
+# 10.0.1.2
+# 10.0.1.3
